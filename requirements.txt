@@ -1,0 +1,7 @@
+# MSBD 566 coding portfolio - Python 3.12
+# Install with: pip install -r requirements.txt
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.5
+matplotlib>=3.8
+jupyterlab>=4.0

@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Assignment 1 derived data: large and reproducible from the Week 2-3 preparation step.
+# The notebook is the deliverable; keeping the repository small matters more than
+# committing a 190 MB scaled matrix that GitHub would reject anyway.
+Assignment 1/data/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
